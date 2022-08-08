@@ -1,0 +1,3 @@
+Deploy:
+  model: static_Vnet_model.pdmodel
+  params: static_Vnet_model.pdiparams
